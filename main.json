@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/dachgeschoss\/stop.json"
+                 "value":"stop.json"
                 }],
          "type":"tilelayer",
          "visible":true,
