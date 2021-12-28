@@ -1097,6 +1097,14 @@
                          "tileid":196
                         }, 
                         {
+                         "duration":1000,
+                         "tileid":194
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":196
+                        }, 
+                        {
                          "duration":2000,
                          "tileid":194
                         }, 
